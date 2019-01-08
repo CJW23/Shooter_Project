@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/Unity UI Sample/Scenes/MainMenu.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Tobii/DemoScenes/04_FirstPersonExample.unity
+  isLoaded: 1
+  isActive: 1
